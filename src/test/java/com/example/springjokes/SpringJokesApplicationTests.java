@@ -8,6 +8,7 @@ class SpringJokesApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//test
 	}
 
 }
